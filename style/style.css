@@ -8,7 +8,7 @@ body, html{
 }
 
 .view{
-    height:80vh;
+    height:100vh;
     overflow: hidden;
     position:relative;
     display: flex;
@@ -27,8 +27,8 @@ body, html{
 
 #start{
     position:absolute;
-    width:129.51*1.5px;
-    height:44*1.5px;
+    width:129.51*2px;
+    height:44*2px;
     top: 646px;
     left: 129px;
     z-index: 2;
