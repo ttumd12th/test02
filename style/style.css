@@ -24,10 +24,8 @@ body, html{
 }
 .start{
     position:absolute;
-    top: 646px;
-    right:0px;
-    bottom:0px;
-    left: 129px;
+    bottom:160px;
+    left: windowWidth/2;
     z-index: 2;
 
 }
