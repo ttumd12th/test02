@@ -24,7 +24,7 @@ body, html{
 }
 .start{
     position:absolute;
-    bottom:160px;
+    top:646px;
     left: windowWidth/2;
     margin: 0 auto;
     z-index: 2;
