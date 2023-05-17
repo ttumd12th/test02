@@ -25,7 +25,10 @@ body, html{
 .start{
     position:absolute;
     bottom:160px;
-    left: windowWidth/2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
     z-index: 2;
 
 }
