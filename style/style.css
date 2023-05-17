@@ -16,9 +16,18 @@ body, html{
     align-items: center;
     padding: 0;
     width: 100%;
+    z-index: 1;
 }
 
-.start{
+.homepage{
     height:100vh;
     margin: 0 auto;
+}
+
+#start{
+    position:absolute;
+    top: 646px;
+    left: 129px;
+    z-index: 2;
+
 }
