@@ -27,8 +27,8 @@ body, html{
 
 #start{
     position:relative;
-    width:129.51px;
-    height:44px;
+    width:129.51*1.5px;
+    height:44*1.5px;
     top: 646px;
     left: 129px;
     z-index: 2;
