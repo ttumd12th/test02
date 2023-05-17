@@ -25,9 +25,7 @@ body, html{
 .start{
     position:absolute;
     bottom:160px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    left: windowWidth/2;
     margin: 0 auto;
     z-index: 2;
 
