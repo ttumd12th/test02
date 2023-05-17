@@ -17,6 +17,7 @@ body, html{
     padding: 0;
     width: 100%;
     z-index: 1;
+    
 }
 
 .homepage{
@@ -26,8 +27,8 @@ body, html{
 
 #start{
     position:absolute;
-    top: 710px;
-    left: windowWidth/2;
+    top: 646px;
+    left: 129px;
     margin: 0 auto;
     z-index: 2;
 
